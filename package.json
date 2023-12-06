@@ -1,0 +1,24 @@
+{
+  "name": "raphael",
+  "version": "1.0.0",
+  "description": "instalei o node e to aqui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoRaphael/chef-em-casa.git"
+  },
+  "author": "raphael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoRaphael/chef-em-casa/issues"
+  },
+  "homepage": "https://github.com/SantiagoRaphael/chef-em-casa#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
+}
